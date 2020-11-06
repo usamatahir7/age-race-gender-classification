@@ -1,7 +1,6 @@
 # age-race-gender-classification
 Gender, Age and Race classification using deep convolutional neural networks on human facial images
 
-#Data
 ### Image dataset
 Download the datasets from following link: <br>
 [training + validation](https://drive.google.com/file/d/1Z1RqRo0_JiavaZw2yzZG6WETdZQ8qX86/view) <br>
