@@ -12,3 +12,7 @@ Gender, Age and Race classification using deep convolutional neural networks on 
 ### Predictions on validation data
 Some of the predictions on the validation images are shown in the image below:
 ![predictions](predictions.png)
+### Real time Prediction using webcam
+To get a real time prediction of your age, race and gender, just run the predict.py file. 
+Here is are the results on my face
+![realtime](images-for-read-me/real-time.png)
