@@ -19,4 +19,4 @@ Some of the predictions on the validation images are shown in the image below:
 ### Real time Prediction using webcam
 To get a real time prediction of your age, race and gender, just run the predict.py file. <br>
 Here are the results on my face:<br>
-![realtime](images-for-read-me/real-time.png)
+![realtime](images-for-read-me/real-time.PNG)
